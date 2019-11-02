@@ -1,0 +1,632 @@
+﻿before: Aged Brie, -44, -13 - after: Aged Brie, -45, -11
+before: Sulfuras, Hand of Ragnaros, -13, 97 - after: Sulfuras, Hand of Ragnaros, -13, 97
+before: Aged Brie, -3, -7 - after: Aged Brie, -4, -5
+before: Aged Brie, 28, 19 - after: Aged Brie, 27, 20
+before: Sulfuras, Hand of Ragnaros, 38, 66 - after: Sulfuras, Hand of Ragnaros, 38, 66
+before: Aged Brie, 63, -30 - after: Aged Brie, 62, -29
+before: Sulfuras, Hand of Ragnaros, 60, 49 - after: Sulfuras, Hand of Ragnaros, 60, 49
+before: my magical item, 100, 37 - after: my magical item, 99, 36
+before: Backstage passes to a TAFKAL80ETC concert, -20, 84 - after: Backstage passes to a TAFKAL80ETC concert, -21, 0
+before: my magical item, -10, -41 - after: my magical item, -11, -41
+before: Backstage passes to a TAFKAL80ETC concert, 21, 6 - after: Backstage passes to a TAFKAL80ETC concert, 20, 7
+before: my magical item, 31, -35 - after: my magical item, 30, -35
+before: Backstage passes to a TAFKAL80ETC concert, 62, 24 - after: Backstage passes to a TAFKAL80ETC concert, 61, 25
+before: Backstage passes to a TAFKAL80ETC concert, 72, 50 - after: Backstage passes to a TAFKAL80ETC concert, 71, 50
+before: Sulfuras, Hand of Ragnaros, -48, 97 - after: Sulfuras, Hand of Ragnaros, -48, 97
+before: Aged Brie, -38, -28 - after: Aged Brie, -39, -26
+before: Sulfuras, Hand of Ragnaros, -7, 19 - after: Sulfuras, Hand of Ragnaros, -7, 19
+before: Aged Brie, 3, 45 - after: Aged Brie, 2, 46
+before: Sulfuras, Hand of Ragnaros, 34, 92 - after: Sulfuras, Hand of Ragnaros, 34, 92
+before: Aged Brie, 44, 51 - after: Aged Brie, 43, 51
+before: Sulfuras, Hand of Ragnaros, 75, -41 - after: Sulfuras, Hand of Ragnaros, 75, -41
+before: Sulfuras, Hand of Ragnaros, 85, -15 - after: Sulfuras, Hand of Ragnaros, 85, -15
+before: my magical item, 18, 87 - after: my magical item, 17, 86
+before: Aged Brie, -24, -19 - after: Aged Brie, -25, -17
+before: Sulfuras, Hand of Ragnaros, -17, 19 - after: Sulfuras, Hand of Ragnaros, -17, 19
+before: my magical item, 3, 34 - after: my magical item, 2, 33
+before: Aged Brie, 5, 53 - after: Aged Brie, 4, 53
+before: Aged Brie, 74, -13 - after: Aged Brie, 73, -12
+before: Sulfuras, Hand of Ragnaros, 4, 96 - after: Sulfuras, Hand of Ragnaros, 4, 96
+before: Aged Brie, 19, -24 - after: Aged Brie, 18, -23
+before: Aged Brie, -25, 31 - after: Aged Brie, -26, 33
+before: Sulfuras, Hand of Ragnaros, -15, 78 - after: Sulfuras, Hand of Ragnaros, -15, 78
+before: Aged Brie, 16, -47 - after: Aged Brie, 15, -46
+before: Sulfuras, Hand of Ragnaros, 26, 63 - after: Sulfuras, Hand of Ragnaros, 26, 63
+before: Aged Brie, 57, -41 - after: Aged Brie, 56, -40
+before: Aged Brie, 67, -15 - after: Aged Brie, 66, -14
+before: Sulfuras, Hand of Ragnaros, -41, 44 - after: Sulfuras, Hand of Ragnaros, -41, 44
+before: my magical item, -10, 91 - after: my magical item, -11, 89
+before: Backstage passes to a TAFKAL80ETC concert, 0, -34 - after: Backstage passes to a TAFKAL80ETC concert, -1, 0
+before: my magical item, 31, 13 - after: my magical item, 30, 12
+before: Backstage passes to a TAFKAL80ETC concert, 41, 39 - after: Backstage passes to a TAFKAL80ETC concert, 40, 40
+before: my magical item, 72, -2 - after: my magical item, 71, -2
+before: Backstage passes to a TAFKAL80ETC concert, 82, 45 - after: Backstage passes to a TAFKAL80ETC concert, 81, 46
+before: Backstage passes to a TAFKAL80ETC concert, -38, -47 - after: Backstage passes to a TAFKAL80ETC concert, -39, 0
+before: my magical item, -28, -21 - after: my magical item, -29, -21
+before: Aged Brie, 3, 26 - after: Aged Brie, 2, 27
+before: Sulfuras, Hand of Ragnaros, 13, 52 - after: Sulfuras, Hand of Ragnaros, 13, 52
+before: Aged Brie, 44, 99 - after: Aged Brie, 43, 99
+before: Sulfuras, Hand of Ragnaros, 54, -26 - after: Sulfuras, Hand of Ragnaros, 54, -26
+before: Aged Brie, 85, 84 - after: Aged Brie, 84, 84
+before: Aged Brie, 95, -20 - after: Aged Brie, 94, -19
+before: Sulfuras, Hand of Ragnaros, -25, 39 - after: Sulfuras, Hand of Ragnaros, -25, 39
+before: Aged Brie, -15, 65 - after: Aged Brie, -16, 65
+before: Backstage passes to a TAFKAL80ETC concert, 16, -39 - after: Backstage passes to a TAFKAL80ETC concert, 15, -38
+before: my magical item, 26, -13 - after: my magical item, 25, -13
+before: Backstage passes to a TAFKAL80ETC concert, 57, 34 - after: Backstage passes to a TAFKAL80ETC concert, 56, 35
+before: my magical item, 67, -7 - after: my magical item, 66, -7
+before: Backstage passes to a TAFKAL80ETC concert, 98, 19 - after: Backstage passes to a TAFKAL80ETC concert, 97, 20
+before: Backstage passes to a TAFKAL80ETC concert, -43, 66 - after: Backstage passes to a TAFKAL80ETC concert, -44, 0
+before: my magical item, -12, -26 - after: my magical item, -13, -26
+before: Backstage passes to a TAFKAL80ETC concert, -2, 0 - after: Backstage passes to a TAFKAL80ETC concert, -3, 0
+before: Sulfuras, Hand of Ragnaros, 29, 47 - after: Sulfuras, Hand of Ragnaros, 29, 47
+before: Aged Brie, 39, 73 - after: Aged Brie, 38, 73
+before: Sulfuras, Hand of Ragnaros, 70, -31 - after: Sulfuras, Hand of Ragnaros, 70, -31
+before: Aged Brie, 80, 79 - after: Aged Brie, 79, 79
+before: Sulfuras, Hand of Ragnaros, -40, -46 - after: Sulfuras, Hand of Ragnaros, -40, -46
+before: Sulfuras, Hand of Ragnaros, -30, 1 - after: Sulfuras, Hand of Ragnaros, -30, 1
+before: Aged Brie, 1, 60 - after: Aged Brie, 0, 60
+before: Sulfuras, Hand of Ragnaros, 95, 86 - after: Sulfuras, Hand of Ragnaros, 95, 86
+before: my magical item, -46, -18 - after: my magical item, -47, -18
+before: Backstage passes to a TAFKAL80ETC concert, -15, 8 - after: Backstage passes to a TAFKAL80ETC concert, -16, 0
+before: my magical item, -5, 55 - after: my magical item, -6, 53
+before: Backstage passes to a TAFKAL80ETC concert, 26, 14 - after: Backstage passes to a TAFKAL80ETC concert, 25, 15
+before: my magical item, 36, 40 - after: my magical item, 35, 39
+before: my magical item, 67, 87 - after: my magical item, 66, 86
+before: Backstage passes to a TAFKAL80ETC concert, 77, -5 - after: Backstage passes to a TAFKAL80ETC concert, 76, -4
+before: Sulfuras, Hand of Ragnaros, -43, 21 - after: Sulfuras, Hand of Ragnaros, -43, 21
+before: Aged Brie, -33, 68 - after: Aged Brie, -34, 68
+before: Sulfuras, Hand of Ragnaros, -2, 94 - after: Sulfuras, Hand of Ragnaros, -2, 94
+before: Aged Brie, 8, -10 - after: Aged Brie, 7, -9
+before: Sulfuras, Hand of Ragnaros, 39, 100 - after: Sulfuras, Hand of Ragnaros, 39, 100
+before: Aged Brie, 49, -25 - after: Aged Brie, 48, -24
+before: Aged Brie, 80, 34 - after: Aged Brie, 79, 35
+before: Sulfuras, Hand of Ragnaros, 90, 81 - after: Sulfuras, Hand of Ragnaros, 90, 81
+before: my magical item, -30, -44 - after: my magical item, -31, -44
+before: Backstage passes to a TAFKAL80ETC concert, -6, -14 - after: Backstage passes to a TAFKAL80ETC concert, -7, 0
+before: Sulfuras, Hand of Ragnaros, 96, 19 - after: Sulfuras, Hand of Ragnaros, 96, 19
+before: Sulfuras, Hand of Ragnaros, 21, 44 - after: Sulfuras, Hand of Ragnaros, 21, 44
+before: my magical item, -7, 24 - after: my magical item, -8, 22
+before: my magical item, -13, 42 - after: my magical item, -14, 40
+before: Aged Brie, 31, 46 - after: Aged Brie, 30, 47
+before: Sulfuras, Hand of Ragnaros, 62, 93 - after: Sulfuras, Hand of Ragnaros, 62, 93
+before: my magical item, 72, -32 - after: my magical item, 71, -32
+before: Backstage passes to a TAFKAL80ETC concert, -48, 78 - after: Backstage passes to a TAFKAL80ETC concert, -49, 0
+before: Backstage passes to a TAFKAL80ETC concert, -38, -26 - after: Backstage passes to a TAFKAL80ETC concert, -39, 0
+before: my magical item, -7, 0 - after: my magical item, -8, 0
+before: Backstage passes to a TAFKAL80ETC concert, 3, 47 - after: Backstage passes to a TAFKAL80ETC concert, 2, 50
+before: my magical item, 34, 73 - after: my magical item, 33, 72
+before: Backstage passes to a TAFKAL80ETC concert, 44, -19 - after: Backstage passes to a TAFKAL80ETC concert, 43, -18
+before: my magical item, 75, 28 - after: my magical item, 74, 27
+before: Aged Brie, 18, -13 - after: Aged Brie, 17, -12
+before: Sulfuras, Hand of Ragnaros, 28, 13 - after: Sulfuras, Hand of Ragnaros, 28, 13
+before: Sulfuras, Hand of Ragnaros, 59, 60 - after: Sulfuras, Hand of Ragnaros, 59, 60
+before: Aged Brie, 69, 86 - after: Aged Brie, 68, 86
+before: Sulfuras, Hand of Ragnaros, 100, -18 - after: Sulfuras, Hand of Ragnaros, 100, -18
+before: Aged Brie, -41, 8 - after: Aged Brie, -42, 10
+before: Sulfuras, Hand of Ragnaros, -10, 67 - after: Sulfuras, Hand of Ragnaros, -10, 67
+before: Aged Brie, 0, -37 - after: Aged Brie, -1, -35
+before: Backstage passes to a TAFKAL80ETC concert, 31, 73 - after: Backstage passes to a TAFKAL80ETC concert, 30, 73
+before: my magical item, 41, 99 - after: my magical item, 40, 98
+before: my magical item, 72, -5 - after: my magical item, 71, -5
+before: Backstage passes to a TAFKAL80ETC concert, 82, 21 - after: Backstage passes to a TAFKAL80ETC concert, 81, 22
+before: my magical item, -38, 68 - after: my magical item, -39, 66
+before: Backstage passes to a TAFKAL80ETC concert, -28, 94 - after: Backstage passes to a TAFKAL80ETC concert, -29, 0
+before: my magical item, 3, 2 - after: my magical item, 2, 1
+before: Aged Brie, 13, 49 - after: Aged Brie, 12, 50
+before: Sulfuras, Hand of Ragnaros, 44, 8 - after: Sulfuras, Hand of Ragnaros, 44, 8
+before: Aged Brie, 54, 34 - after: Aged Brie, 53, 35
+before: Aged Brie, 85, 81 - after: Aged Brie, 84, 81
+before: Sulfuras, Hand of Ragnaros, 95, -44 - after: Sulfuras, Hand of Ragnaros, 95, -44
+before: Aged Brie, -25, 3 - after: Aged Brie, -26, 5
+before: Sulfuras, Hand of Ragnaros, -15, 62 - after: Sulfuras, Hand of Ragnaros, -15, 62
+before: Aged Brie, 16, 88 - after: Aged Brie, 15, 88
+before: Backstage passes to a TAFKAL80ETC concert, 26, -16 - after: Backstage passes to a TAFKAL80ETC concert, 25, -15
+before: my magical item, 57, 94 - after: my magical item, 56, 93
+before: Backstage passes to a TAFKAL80ETC concert, -25, 30 - after: Backstage passes to a TAFKAL80ETC concert, -26, 0
+before: Sulfuras, Hand of Ragnaros, 41, 27 - after: Sulfuras, Hand of Ragnaros, 41, 27
+before: Sulfuras, Hand of Ragnaros, 6, 8 - after: Sulfuras, Hand of Ragnaros, 6, 8
+before: Backstage passes to a TAFKAL80ETC concert, 36, 54 - after: Backstage passes to a TAFKAL80ETC concert, 35, 54
+before: Aged Brie, -19, 27 - after: Aged Brie, -20, 29
+before: my magical item, 7, 1 - after: my magical item, 6, 0
+before: Aged Brie, 69, 81 - after: Aged Brie, 68, 81
+before: Sulfuras, Hand of Ragnaros, -36, -25 - after: Sulfuras, Hand of Ragnaros, -36, -25
+before: Backstage passes to a TAFKAL80ETC concert, 72, 31 - after: Backstage passes to a TAFKAL80ETC concert, 71, 32
+before: my magical item, 55, -50 - after: my magical item, 54, -50
+before: Sulfuras, Hand of Ragnaros, -50, 13 - after: Sulfuras, Hand of Ragnaros, -50, 13
+before: Sulfuras, Hand of Ragnaros, 53, -19 - after: Sulfuras, Hand of Ragnaros, 53, -19
+before: Backstage passes to a TAFKAL80ETC concert, 71, 26 - after: Backstage passes to a TAFKAL80ETC concert, 70, 27
+before: my magical item, 56, 28 - after: my magical item, 55, 27
+before: my magical item, 26, 14 - after: my magical item, 25, 13
+before: Aged Brie, 27, -37 - after: Aged Brie, 26, -36
+before: Sulfuras, Hand of Ragnaros, 58, 10 - after: Sulfuras, Hand of Ragnaros, 58, 10
+before: Aged Brie, 68, 36 - after: Aged Brie, 67, 37
+before: Sulfuras, Hand of Ragnaros, 99, -5 - after: Sulfuras, Hand of Ragnaros, 99, -5
+before: Aged Brie, -42, 42 - after: Aged Brie, -43, 44
+before: Aged Brie, -11, -50 - after: Aged Brie, -12, -48
+before: Sulfuras, Hand of Ragnaros, -1, -24 - after: Sulfuras, Hand of Ragnaros, -1, -24
+before: my magical item, 30, 23 - after: my magical item, 29, 22
+before: Backstage passes to a TAFKAL80ETC concert, 40, 49 - after: Backstage passes to a TAFKAL80ETC concert, 39, 50
+before: my magical item, 71, 96 - after: my magical item, 70, 95
+before: Backstage passes to a TAFKAL80ETC concert, 81, -29 - after: Backstage passes to a TAFKAL80ETC concert, 80, -28
+before: my magical item, -39, 81 - after: my magical item, -40, 79
+before: Backstage passes to a TAFKAL80ETC concert, -29, -23 - after: Backstage passes to a TAFKAL80ETC concert, -30, 0
+before: Backstage passes to a TAFKAL80ETC concert, 2, 36 - after: Backstage passes to a TAFKAL80ETC concert, 1, 39
+before: Sulfuras, Hand of Ragnaros, 12, 62 - after: Sulfuras, Hand of Ragnaros, 12, 62
+before: Aged Brie, 43, -42 - after: Aged Brie, 42, -41
+before: Sulfuras, Hand of Ragnaros, 53, -16 - after: Sulfuras, Hand of Ragnaros, 53, -16
+before: Aged Brie, 84, 31 - after: Aged Brie, 83, 32
+before: Sulfuras, Hand of Ragnaros, 94, 57 - after: Sulfuras, Hand of Ragnaros, 94, 57
+before: Aged Brie, -26, 16 - after: Aged Brie, -27, 18
+before: Aged Brie, -16, 75 - after: Aged Brie, -17, 75
+before: Sulfuras, Hand of Ragnaros, 15, -29 - after: Sulfuras, Hand of Ragnaros, 15, -29
+before: my magical item, 25, -3 - after: my magical item, 24, -3
+before: Backstage passes to a TAFKAL80ETC concert, 56, 44 - after: Backstage passes to a TAFKAL80ETC concert, 55, 45
+before: my magical item, 66, 70 - after: my magical item, 65, 69
+before: Backstage passes to a TAFKAL80ETC concert, 97, -34 - after: Backstage passes to a TAFKAL80ETC concert, 96, -33
+before: my magical item, -44, 76 - after: my magical item, -45, 74
+before: Backstage passes to a TAFKAL80ETC concert, -13, -49 - after: Backstage passes to a TAFKAL80ETC concert, -14, 0
+before: Backstage passes to a TAFKAL80ETC concert, -3, 10 - after: Backstage passes to a TAFKAL80ETC concert, -4, 0
+before: my magical item, 5, 36 - after: my magical item, 4, 35
+before: Backstage passes to a TAFKAL80ETC concert, -20, 92 - after: Backstage passes to a TAFKAL80ETC concert, -21, 0
+before: Aged Brie, -17, -39 - after: Aged Brie, -18, -37
+before: Backstage passes to a TAFKAL80ETC concert, 55, 49 - after: Backstage passes to a TAFKAL80ETC concert, 54, 50
+before: Sulfuras, Hand of Ragnaros, 75, 84 - after: Sulfuras, Hand of Ragnaros, 75, 84
+before: Backstage passes to a TAFKAL80ETC concert, 41, 67 - after: Backstage passes to a TAFKAL80ETC concert, 40, 67
+before: my magical item, 32, 6 - after: my magical item, 31, 5
+before: Aged Brie, 41, -40 - after: Aged Brie, 40, -39
+before: my magical item, 77, 12 - after: my magical item, 76, 11
+before: Backstage passes to a TAFKAL80ETC concert, 19, 84 - after: Backstage passes to a TAFKAL80ETC concert, 18, 84
+before: Sulfuras, Hand of Ragnaros, 65, -35 - after: Sulfuras, Hand of Ragnaros, 65, -35
+before: Sulfuras, Hand of Ragnaros, -50, 17 - after: Sulfuras, Hand of Ragnaros, -50, 17
+before: Backstage passes to a TAFKAL80ETC concert, 68, 0 - after: Backstage passes to a TAFKAL80ETC concert, 67, 1
+before: Backstage passes to a TAFKAL80ETC concert, 16, -48 - after: Backstage passes to a TAFKAL80ETC concert, 15, -47
+before: my magical item, -2, -5 - after: my magical item, -3, -5
+before: Sulfuras, Hand of Ragnaros, 53, 33 - after: Sulfuras, Hand of Ragnaros, 53, 33
+before: Aged Brie, -11, 97 - after: Aged Brie, -12, 97
+before: my magical item, 54, 66 - after: my magical item, 53, 65
+before: Aged Brie, -40, 71 - after: Aged Brie, -41, 71
+before: Sulfuras, Hand of Ragnaros, -9, 30 - after: Sulfuras, Hand of Ragnaros, -9, 30
+before: Sulfuras, Hand of Ragnaros, 1, 77 - after: Sulfuras, Hand of Ragnaros, 1, 77
+before: Aged Brie, 32, -48 - after: Aged Brie, 31, -47
+before: Sulfuras, Hand of Ragnaros, 42, -1 - after: Sulfuras, Hand of Ragnaros, 42, -1
+before: Aged Brie, 73, 58 - after: Aged Brie, 72, 58
+before: Backstage passes to a TAFKAL80ETC concert, 83, 84 - after: Backstage passes to a TAFKAL80ETC concert, 82, 84
+before: my magical item, -37, -20 - after: my magical item, -38, -20
+before: Backstage passes to a TAFKAL80ETC concert, -27, 90 - after: Backstage passes to a TAFKAL80ETC concert, -28, 0
+before: my magical item, 3, 54 - after: my magical item, 2, 53
+before: my magical item, -7, 59 - after: my magical item, -8, 57
+before: Aged Brie, 40, -30 - after: Aged Brie, 39, -29
+before: Sulfuras, Hand of Ragnaros, 71, -38 - after: Sulfuras, Hand of Ragnaros, 71, -38
+before: Sulfuras, Hand of Ragnaros, 81, -12 - after: Sulfuras, Hand of Ragnaros, 81, -12
+before: my magical item, -39, 35 - after: my magical item, -40, 33
+before: Backstage passes to a TAFKAL80ETC concert, -29, 61 - after: Backstage passes to a TAFKAL80ETC concert, -30, 0
+before: my magical item, 2, -43 - after: my magical item, 1, -43
+before: Backstage passes to a TAFKAL80ETC concert, 12, -17 - after: Backstage passes to a TAFKAL80ETC concert, 11, -16
+before: my magical item, 43, 30 - after: my magical item, 42, 29
+before: Backstage passes to a TAFKAL80ETC concert, 53, -11 - after: Backstage passes to a TAFKAL80ETC concert, 52, -10
+before: my magical item, 84, 48 - after: my magical item, 83, 47
+before: my magical item, 94, 74 - after: my magical item, 93, 73
+before: Aged Brie, -26, -30 - after: Aged Brie, -27, -28
+before: Sulfuras, Hand of Ragnaros, -16, -4 - after: Sulfuras, Hand of Ragnaros, -16, -4
+before: Aged Brie, 15, 43 - after: Aged Brie, 14, 44
+before: Sulfuras, Hand of Ragnaros, 25, 69 - after: Sulfuras, Hand of Ragnaros, 25, 69
+before: Aged Brie, 56, -35 - after: Aged Brie, 55, -34
+before: Sulfuras, Hand of Ragnaros, 66, 75 - after: Sulfuras, Hand of Ragnaros, 66, 75
+before: Aged Brie, 97, -17 - after: Aged Brie, 96, -16
+before: Aged Brie, -44, 9 - after: Aged Brie, -45, 11
+before: Backstage passes to a TAFKAL80ETC concert, -13, 56 - after: Backstage passes to a TAFKAL80ETC concert, -14, 0
+before: my magical item, -3, 82 - after: my magical item, -4, 80
+before: Backstage passes to a TAFKAL80ETC concert, 28, -22 - after: Backstage passes to a TAFKAL80ETC concert, 27, -21
+before: my magical item, 38, 4 - after: my magical item, 37, 3
+before: Backstage passes to a TAFKAL80ETC concert, 69, 51 - after: Backstage passes to a TAFKAL80ETC concert, 68, 51
+before: my magical item, 79, 10 - after: my magical item, 78, 9
+before: Backstage passes to a TAFKAL80ETC concert, -41, 69 - after: Backstage passes to a TAFKAL80ETC concert, -42, 0
+before: Backstage passes to a TAFKAL80ETC concert, -31, 95 - after: Backstage passes to a TAFKAL80ETC concert, -32, 0
+before: Sulfuras, Hand of Ragnaros, 0, -9 - after: Sulfuras, Hand of Ragnaros, 0, -9
+before: Aged Brie, 94, 17 - after: Aged Brie, 93, 18
+before: Sulfuras, Hand of Ragnaros, -47, 64 - after: Sulfuras, Hand of Ragnaros, -47, 64
+before: Aged Brie, -16, 90 - after: Aged Brie, -17, 90
+before: Sulfuras, Hand of Ragnaros, -6, -14 - after: Sulfuras, Hand of Ragnaros, -6, -14
+before: Aged Brie, 25, 96 - after: Aged Brie, 24, 96
+before: Sulfuras, Hand of Ragnaros, 68, 4 - after: Sulfuras, Hand of Ragnaros, 68, 4
+before: Backstage passes to a TAFKAL80ETC concert, 78, 30 - after: Backstage passes to a TAFKAL80ETC concert, 77, 31
+before: my magical item, -42, 77 - after: my magical item, -43, 75
+before: Backstage passes to a TAFKAL80ETC concert, -32, -48 - after: Backstage passes to a TAFKAL80ETC concert, -33, 0
+before: my magical item, -1, -1 - after: my magical item, -2, -1
+before: Backstage passes to a TAFKAL80ETC concert, 9, 25 - after: Backstage passes to a TAFKAL80ETC concert, 8, 27
+before: my magical item, 40, 72 - after: my magical item, 39, 71
+before: Backstage passes to a TAFKAL80ETC concert, 50, 43 - after: Backstage passes to a TAFKAL80ETC concert, 49, 44
+before: Backstage passes to a TAFKAL80ETC concert, 81, 90 - after: Backstage passes to a TAFKAL80ETC concert, 80, 90
+before: Sulfuras, Hand of Ragnaros, 91, -35 - after: Sulfuras, Hand of Ragnaros, 91, -35
+before: Aged Brie, -29, 12 - after: Aged Brie, -30, 14
+before: Sulfuras, Hand of Ragnaros, -19, 38 - after: Sulfuras, Hand of Ragnaros, -19, 38
+before: Aged Brie, 12, 85 - after: Aged Brie, 11, 85
+before: Sulfuras, Hand of Ragnaros, 22, -40 - after: Sulfuras, Hand of Ragnaros, 22, -40
+before: Aged Brie, 53, 70 - after: Aged Brie, 52, 70
+before: Sulfuras, Hand of Ragnaros, 63, -22 - after: Sulfuras, Hand of Ragnaros, 63, -22
+before: Sulfuras, Hand of Ragnaros, 94, 25 - after: Sulfuras, Hand of Ragnaros, 94, 25
+before: my magical item, -47, 51 - after: my magical item, -48, 49
+before: Backstage passes to a TAFKAL80ETC concert, -16, 98 - after: Backstage passes to a TAFKAL80ETC concert, -17, 0
+before: my magical item, -6, -27 - after: my magical item, -7, -27
+before: Backstage passes to a TAFKAL80ETC concert, 25, 20 - after: Backstage passes to a TAFKAL80ETC concert, 24, 21
+before: my magical item, 35, 46 - after: my magical item, 34, 45
+before: Backstage passes to a TAFKAL80ETC concert, 66, 5 - after: Backstage passes to a TAFKAL80ETC concert, 65, 6
+before: my magical item, 76, 64 - after: my magical item, 75, 63
+before: my magical item, -44, -40 - after: my magical item, -45, -40
+before: Aged Brie, -34, -14 - after: Aged Brie, -35, -12
+before: Sulfuras, Hand of Ragnaros, -3, 33 - after: Sulfuras, Hand of Ragnaros, -3, 33
+before: Aged Brie, 7, 59 - after: Aged Brie, 6, 59
+before: Sulfuras, Hand of Ragnaros, 38, -45 - after: Sulfuras, Hand of Ragnaros, 38, -45
+before: Aged Brie, 48, -19 - after: Aged Brie, 47, -18
+before: Sulfuras, Hand of Ragnaros, 79, 91 - after: Sulfuras, Hand of Ragnaros, 79, 91
+before: Aged Brie, 89, -1 - after: Aged Brie, 88, 0
+before: Aged Brie, -31, 46 - after: Aged Brie, -32, 48
+before: Backstage passes to a TAFKAL80ETC concert, -21, 72 - after: Backstage passes to a TAFKAL80ETC concert, -22, 0
+before: my magical item, 10, -32 - after: my magical item, 9, -32
+before: Backstage passes to a TAFKAL80ETC concert, 20, -6 - after: Backstage passes to a TAFKAL80ETC concert, 19, -5
+before: my magical item, 51, 41 - after: my magical item, 50, 40
+before: Backstage passes to a TAFKAL80ETC concert, 61, 67 - after: Backstage passes to a TAFKAL80ETC concert, 60, 67
+before: my magical item, 92, 26 - after: my magical item, 91, 25
+before: Backstage passes to a TAFKAL80ETC concert, -49, 85 - after: Backstage passes to a TAFKAL80ETC concert, -50, 0
+before: Aged Brie, -18, -19 - after: Aged Brie, -19, -17
+before: Sulfuras, Hand of Ragnaros, -8, 7 - after: Sulfuras, Hand of Ragnaros, -8, 7
+before: Aged Brie, 23, 54 - after: Aged Brie, 22, 54
+before: Sulfuras, Hand of Ragnaros, -34, 80 - after: Sulfuras, Hand of Ragnaros, -34, 80
+before: Aged Brie, -24, -24 - after: Aged Brie, -25, -22
+before: Sulfuras, Hand of Ragnaros, 7, 2 - after: Sulfuras, Hand of Ragnaros, 7, 2
+before: Aged Brie, 17, -6 - after: Aged Brie, 16, -5
+before: Aged Brie, 48, 20 - after: Aged Brie, 47, 21
+before: Backstage passes to a TAFKAL80ETC concert, 79, 69 - after: Backstage passes to a TAFKAL80ETC concert, 78, 69
+before: Sulfuras, Hand of Ragnaros, -16, 44 - after: Sulfuras, Hand of Ragnaros, -16, 44
+before: my magical item, -23, -15 - after: my magical item, -24, -15
+before: Backstage passes to a TAFKAL80ETC concert, 8, 32 - after: Backstage passes to a TAFKAL80ETC concert, 7, 34
+before: my magical item, 18, 58 - after: my magical item, 17, 57
+before: Backstage passes to a TAFKAL80ETC concert, 49, 17 - after: Backstage passes to a TAFKAL80ETC concert, 48, 18
+before: Backstage passes to a TAFKAL80ETC concert, 59, 76 - after: Backstage passes to a TAFKAL80ETC concert, 58, 76
+before: my magical item, 90, -28 - after: my magical item, 89, -28
+before: Aged Brie, 100, -2 - after: Aged Brie, 99, -1
+before: Sulfuras, Hand of Ragnaros, -20, 45 - after: Sulfuras, Hand of Ragnaros, -20, 45
+before: Aged Brie, -10, 71 - after: Aged Brie, -11, 71
+before: Sulfuras, Hand of Ragnaros, 21, -33 - after: Sulfuras, Hand of Ragnaros, 21, -33
+before: Aged Brie, 31, 77 - after: Aged Brie, 30, 77
+before: Sulfuras, Hand of Ragnaros, 62, -48 - after: Sulfuras, Hand of Ragnaros, 62, -48
+before: Sulfuras, Hand of Ragnaros, 72, 11 - after: Sulfuras, Hand of Ragnaros, 72, 11
+before: Aged Brie, -48, 58 - after: Aged Brie, -49, 58
+before: Backstage passes to a TAFKAL80ETC concert, -38, 84 - after: Backstage passes to a TAFKAL80ETC concert, -39, 0
+before: my magical item, -7, -20 - after: my magical item, -8, -20
+before: Backstage passes to a TAFKAL80ETC concert, 3, 6 - after: Backstage passes to a TAFKAL80ETC concert, 2, 9
+before: my magical item, 34, 53 - after: my magical item, 33, 52
+before: Backstage passes to a TAFKAL80ETC concert, 44, 12 - after: Backstage passes to a TAFKAL80ETC concert, 43, 13
+before: my magical item, 75, 38 - after: my magical item, 74, 37
+before: my magical item, 85, 97 - after: my magical item, 84, 96
+before: Backstage passes to a TAFKAL80ETC concert, -35, -7 - after: Backstage passes to a TAFKAL80ETC concert, -36, 0
+before: Sulfuras, Hand of Ragnaros, -25, 19 - after: Sulfuras, Hand of Ragnaros, -25, 19
+before: Aged Brie, 6, 66 - after: Aged Brie, 5, 66
+before: Sulfuras, Hand of Ragnaros, 16, 92 - after: Sulfuras, Hand of Ragnaros, 16, 92
+before: Aged Brie, 47, -12 - after: Aged Brie, 46, -11
+before: Sulfuras, Hand of Ragnaros, 57, 98 - after: Sulfuras, Hand of Ragnaros, 57, 98
+before: Aged Brie, 88, -27 - after: Aged Brie, 87, -26
+before: Aged Brie, 98, 32 - after: Aged Brie, 97, 33
+before: Backstage passes to a TAFKAL80ETC concert, -22, 79 - after: Backstage passes to a TAFKAL80ETC concert, -23, 0
+before: my magical item, -12, -46 - after: my magical item, -13, -46
+before: Backstage passes to a TAFKAL80ETC concert, 19, 1 - after: Backstage passes to a TAFKAL80ETC concert, 18, 2
+before: my magical item, 29, 27 - after: my magical item, 28, 26
+before: Backstage passes to a TAFKAL80ETC concert, 60, 74 - after: Backstage passes to a TAFKAL80ETC concert, 59, 74
+before: my magical item, 70, 33 - after: my magical item, 69, 32
+before: Backstage passes to a TAFKAL80ETC concert, -50, 92 - after: Backstage passes to a TAFKAL80ETC concert, -51, 0
+before: Backstage passes to a TAFKAL80ETC concert, -40, -33 - after: Backstage passes to a TAFKAL80ETC concert, -41, 0
+before: Sulfuras, Hand of Ragnaros, 54, 14 - after: Sulfuras, Hand of Ragnaros, 54, 14
+before: Aged Brie, 85, 40 - after: Aged Brie, 84, 41
+before: Sulfuras, Hand of Ragnaros, 95, 87 - after: Sulfuras, Hand of Ragnaros, 95, 87
+before: Aged Brie, -25, -38 - after: Aged Brie, -26, -36
+before: Sulfuras, Hand of Ragnaros, -15, 9 - after: Sulfuras, Hand of Ragnaros, -15, 9
+before: Aged Brie, 16, -32 - after: Aged Brie, 15, -31
+before: Aged Brie, 26, 27 - after: Aged Brie, 25, 28
+before: Sulfuras, Hand of Ragnaros, 57, 53 - after: Sulfuras, Hand of Ragnaros, 57, 53
+before: my magical item, 67, 100 - after: my magical item, 66, 99
+before: Backstage passes to a TAFKAL80ETC concert, 98, -25 - after: Backstage passes to a TAFKAL80ETC concert, 97, -24
+before: my magical item, -10, 22 - after: my magical item, -11, 20
+before: Backstage passes to a TAFKAL80ETC concert, 0, 48 - after: Backstage passes to a TAFKAL80ETC concert, -1, 0
+before: my magical item, 31, 7 - after: my magical item, 30, 6
+before: Backstage passes to a TAFKAL80ETC concert, 41, 54 - after: Backstage passes to a TAFKAL80ETC concert, 40, 54
+before: Backstage passes to a TAFKAL80ETC concert, 72, -38 - after: Backstage passes to a TAFKAL80ETC concert, 71, -37
+before: my magical item, 82, -12 - after: my magical item, 81, -12
+before: Aged Brie, -38, 35 - after: Aged Brie, -39, 37
+before: Sulfuras, Hand of Ragnaros, -28, 61 - after: Sulfuras, Hand of Ragnaros, -28, 61
+before: Aged Brie, 3, -43 - after: Aged Brie, 2, -42
+before: Sulfuras, Hand of Ragnaros, 13, -17 - after: Sulfuras, Hand of Ragnaros, 13, -17
+before: Aged Brie, 44, 93 - after: Aged Brie, 43, 93
+before: Sulfuras, Hand of Ragnaros, 54, -11 - after: Sulfuras, Hand of Ragnaros, 54, -11
+before: Sulfuras, Hand of Ragnaros, 85, 48 - after: Sulfuras, Hand of Ragnaros, 85, 48
+before: Aged Brie, 95, 74 - after: Aged Brie, 94, 74
+before: Backstage passes to a TAFKAL80ETC concert, -25, -30 - after: Backstage passes to a TAFKAL80ETC concert, -26, 0
+before: my magical item, -15, -4 - after: my magical item, -16, -4
+before: Backstage passes to a TAFKAL80ETC concert, 16, 43 - after: Backstage passes to a TAFKAL80ETC concert, 15, 44
+before: my magical item, 26, 69 - after: my magical item, 25, 68
+before: Backstage passes to a TAFKAL80ETC concert, 57, 28 - after: Backstage passes to a TAFKAL80ETC concert, 56, 29
+before: my magical item, 67, 75 - after: my magical item, 66, 74
+before: my magical item, 98, -17 - after: my magical item, 97, -17
+before: Aged Brie, -43, 9 - after: Aged Brie, -44, 11
+before: Sulfuras, Hand of Ragnaros, -12, 56 - after: Sulfuras, Hand of Ragnaros, -12, 56
+before: Aged Brie, -2, 82 - after: Aged Brie, -3, 82
+before: Sulfuras, Hand of Ragnaros, 29, -22 - after: Sulfuras, Hand of Ragnaros, 29, -22
+before: Aged Brie, 39, 4 - after: Aged Brie, 38, 5
+before: Sulfuras, Hand of Ragnaros, 70, -37 - after: Sulfuras, Hand of Ragnaros, 70, -37
+before: Aged Brie, 80, 22 - after: Aged Brie, 79, 23
+before: Aged Brie, -23, 88 - after: Aged Brie, -24, 88
+before: Sulfuras, Hand of Ragnaros, -33, 9 - after: Sulfuras, Hand of Ragnaros, -33, 9
+before: my magical item, 64, -29 - after: my magical item, 63, -29
+before: Backstage passes to a TAFKAL80ETC concert, -8, 66 - after: Backstage passes to a TAFKAL80ETC concert, -9, 0
+before: my magical item, 48, 46 - after: my magical item, 47, 45
+before: my magical item, -20, 19 - after: my magical item, -21, 17
+before: Aged Brie, 19, 73 - after: Aged Brie, 18, 73
+before: Sulfuras, Hand of Ragnaros, 29, -19 - after: Sulfuras, Hand of Ragnaros, 29, -19
+before: Aged Brie, 60, 7 - after: Aged Brie, 59, 8
+before: Backstage passes to a TAFKAL80ETC concert, 70, 54 - after: Backstage passes to a TAFKAL80ETC concert, 69, 54
+before: my magical item, -50, 80 - after: my magical item, -51, 78
+before: Backstage passes to a TAFKAL80ETC concert, -40, 39 - after: Backstage passes to a TAFKAL80ETC concert, -41, 0
+before: my magical item, -9, 86 - after: my magical item, -10, 84
+before: my magical item, 1, -39 - after: my magical item, 0, -39
+before: Backstage passes to a TAFKAL80ETC concert, 32, 8 - after: Backstage passes to a TAFKAL80ETC concert, 31, 9
+before: my magical item, 42, 67 - after: my magical item, 41, 66
+before: Backstage passes to a TAFKAL80ETC concert, 73, 93 - after: Backstage passes to a TAFKAL80ETC concert, 72, 93
+before: Sulfuras, Hand of Ragnaros, 83, -11 - after: Sulfuras, Hand of Ragnaros, 83, -11
+before: Aged Brie, -37, 15 - after: Aged Brie, -38, 17
+before: Sulfuras, Hand of Ragnaros, -27, -26 - after: Sulfuras, Hand of Ragnaros, -27, -26
+before: Sulfuras, Hand of Ragnaros, 4, 21 - after: Sulfuras, Hand of Ragnaros, 4, 21
+before: Aged Brie, 47, 47 - after: Aged Brie, 46, 48
+before: Sulfuras, Hand of Ragnaros, 57, 94 - after: Sulfuras, Hand of Ragnaros, 57, 94
+before: Aged Brie, 88, 2 - after: Aged Brie, 87, 3
+before: Sulfuras, Hand of Ragnaros, 98, 28 - after: Sulfuras, Hand of Ragnaros, 98, 28
+before: my magical item, -22, 75 - after: my magical item, -23, 73
+before: Backstage passes to a TAFKAL80ETC concert, -12, 34 - after: Backstage passes to a TAFKAL80ETC concert, -13, 0
+before: my magical item, 19, 60 - after: my magical item, 18, 59
+before: my magical item, 29, -44 - after: my magical item, 28, -44
+before: Backstage passes to a TAFKAL80ETC concert, 60, -18 - after: Backstage passes to a TAFKAL80ETC concert, 59, -17
+before: my magical item, 70, 29 - after: my magical item, 69, 28
+before: Backstage passes to a TAFKAL80ETC concert, -50, 88 - after: Backstage passes to a TAFKAL80ETC concert, -51, 0
+before: Sulfuras, Hand of Ragnaros, -40, -37 - after: Sulfuras, Hand of Ragnaros, -40, -37
+before: Aged Brie, -9, 10 - after: Aged Brie, -10, 12
+before: Sulfuras, Hand of Ragnaros, 1, -31 - after: Sulfuras, Hand of Ragnaros, 1, -31
+before: Aged Brie, 32, -5 - after: Aged Brie, 31, -4
+before: Aged Brie, 42, 42 - after: Aged Brie, 41, 43
+before: Sulfuras, Hand of Ragnaros, 73, 68 - after: Sulfuras, Hand of Ragnaros, 73, 68
+before: Aged Brie, 83, -24 - after: Aged Brie, 82, -23
+before: Sulfuras, Hand of Ragnaros, -37, 23 - after: Sulfuras, Hand of Ragnaros, -37, 23
+before: my magical item, -27, 49 - after: my magical item, -28, 47
+before: Backstage passes to a TAFKAL80ETC concert, 4, 96 - after: Backstage passes to a TAFKAL80ETC concert, 3, 96
+before: my magical item, 14, 55 - after: my magical item, 13, 54
+before: Backstage passes to a TAFKAL80ETC concert, -43, 81 - after: Backstage passes to a TAFKAL80ETC concert, -44, 0
+before: Backstage passes to a TAFKAL80ETC concert, -12, -23 - after: Backstage passes to a TAFKAL80ETC concert, -13, 0
+before: my magical item, -2, 3 - after: my magical item, -3, 1
+before: Backstage passes to a TAFKAL80ETC concert, 29, 62 - after: Backstage passes to a TAFKAL80ETC concert, 28, 62
+before: my magical item, 39, -42 - after: my magical item, 38, -42
+before: Aged Brie, 70, -16 - after: Aged Brie, 69, -15
+before: Sulfuras, Hand of Ragnaros, 80, 31 - after: Sulfuras, Hand of Ragnaros, 80, 31
+before: Aged Brie, -40, -10 - after: Aged Brie, -41, -8
+before: Aged Brie, -30, 16 - after: Aged Brie, -31, 18
+before: Sulfuras, Hand of Ragnaros, 1, 63 - after: Sulfuras, Hand of Ragnaros, 1, 63
+before: Aged Brie, 11, 89 - after: Aged Brie, 10, 89
+before: Sulfuras, Hand of Ragnaros, 42, -3 - after: Sulfuras, Hand of Ragnaros, 42, -3
+before: Aged Brie, 85, -9 - after: Aged Brie, 84, -8
+before: my magical item, 58, 46 - after: my magical item, 57, 45
+before: Backstage passes to a TAFKAL80ETC concert, 5, 8 - after: Backstage passes to a TAFKAL80ETC concert, 4, 11
+before: Backstage passes to a TAFKAL80ETC concert, -42, -22 - after: Backstage passes to a TAFKAL80ETC concert, -43, 0
+before: Sulfuras, Hand of Ragnaros, 85, -31 - after: Sulfuras, Hand of Ragnaros, 85, -31
+before: Backstage passes to a TAFKAL80ETC concert, 31, 83 - after: Backstage passes to a TAFKAL80ETC concert, 30, 83
+before: Aged Brie, -25, 43 - after: Aged Brie, -26, 45
+before: my magical item, -11, -32 - after: my magical item, -12, -32
+before: Backstage passes to a TAFKAL80ETC concert, 82, 79 - after: Backstage passes to a TAFKAL80ETC concert, 81, 79
+before: Sulfuras, Hand of Ragnaros, 7, 68 - after: Sulfuras, Hand of Ragnaros, 7, 68
+before: Backstage passes to a TAFKAL80ETC concert, 78, 71 - after: Backstage passes to a TAFKAL80ETC concert, 77, 71
+before: Aged Brie, 55, -4 - after: Aged Brie, 54, -3
+before: my magical item, 40, -2 - after: my magical item, 39, -2
+before: Sulfuras, Hand of Ragnaros, -46, 79 - after: Sulfuras, Hand of Ragnaros, -46, 79
+before: Aged Brie, -26, -36 - after: Aged Brie, -27, -34
+before: my magical item, 67, 6 - after: my magical item, 66, 5
+before: Aged Brie, 1, -44 - after: Aged Brie, 0, -43
+before: Backstage passes to a TAFKAL80ETC concert, -7, 87 - after: Backstage passes to a TAFKAL80ETC concert, -8, 0
+before: Sulfuras, Hand of Ragnaros, 21, 8 - after: Sulfuras, Hand of Ragnaros, 21, 8
+before: Aged Brie, 6, 9 - after: Aged Brie, 5, 10
+before: Backstage passes to a TAFKAL80ETC concert, -8, 94 - after: Backstage passes to a TAFKAL80ETC concert, -9, 0
+before: Backstage passes to a TAFKAL80ETC concert, 23, -31 - after: Backstage passes to a TAFKAL80ETC concert, 22, -30
+before: my magical item, 33, 28 - after: my magical item, 32, 27
+before: Backstage passes to a TAFKAL80ETC concert, 64, 75 - after: Backstage passes to a TAFKAL80ETC concert, 63, 75
+before: Sulfuras, Hand of Ragnaros, 74, -50 - after: Sulfuras, Hand of Ragnaros, 74, -50
+before: Aged Brie, -46, -3 - after: Aged Brie, -47, -1
+before: Sulfuras, Hand of Ragnaros, -36, 23 - after: Sulfuras, Hand of Ragnaros, -36, 23
+before: Aged Brie, -5, -18 - after: Aged Brie, -6, -16
+before: Sulfuras, Hand of Ragnaros, 5, 29 - after: Sulfuras, Hand of Ragnaros, 5, 29
+before: Sulfuras, Hand of Ragnaros, 36, 55 - after: Sulfuras, Hand of Ragnaros, 36, 55
+before: Aged Brie, 46, -37 - after: Aged Brie, 45, -36
+before: Sulfuras, Hand of Ragnaros, 77, 10 - after: Sulfuras, Hand of Ragnaros, 77, 10
+before: my magical item, 87, 36 - after: my magical item, 86, 35
+before: Backstage passes to a TAFKAL80ETC concert, -33, 83 - after: Backstage passes to a TAFKAL80ETC concert, -34, 0
+before: my magical item, -23, -42 - after: my magical item, -24, -42
+before: Backstage passes to a TAFKAL80ETC concert, 8, 68 - after: Backstage passes to a TAFKAL80ETC concert, 7, 68
+before: my magical item, 18, -36 - after: my magical item, 17, -36
+before: my magical item, 49, -10 - after: my magical item, 48, -10
+before: Backstage passes to a TAFKAL80ETC concert, 59, 49 - after: Backstage passes to a TAFKAL80ETC concert, 58, 50
+before: my magical item, 90, 96 - after: my magical item, 89, 95
+before: Aged Brie, 100, -29 - after: Aged Brie, 99, -28
+before: Sulfuras, Hand of Ragnaros, -20, 18 - after: Sulfuras, Hand of Ragnaros, -20, 18
+before: Aged Brie, -10, 44 - after: Aged Brie, -11, 46
+before: Sulfuras, Hand of Ragnaros, 84, 3 - after: Sulfuras, Hand of Ragnaros, 84, 3
+before: Sulfuras, Hand of Ragnaros, -36, 50 - after: Sulfuras, Hand of Ragnaros, -36, 50
+before: Aged Brie, -26, 76 - after: Aged Brie, -27, 76
+before: Sulfuras, Hand of Ragnaros, 5, -16 - after: Sulfuras, Hand of Ragnaros, 5, -16
+before: Aged Brie, 15, 31 - after: Aged Brie, 14, 32
+before: Backstage passes to a TAFKAL80ETC concert, 46, 57 - after: Backstage passes to a TAFKAL80ETC concert, 45, 57
+before: my magical item, 56, -47 - after: my magical item, 55, -47
+before: Backstage passes to a TAFKAL80ETC concert, 87, 63 - after: Backstage passes to a TAFKAL80ETC concert, 86, 63
+before: my magical item, 97, 89 - after: my magical item, 96, 88
+before: my magical item, -23, -15 - after: my magical item, -24, -15
+before: Backstage passes to a TAFKAL80ETC concert, -13, 11 - after: Backstage passes to a TAFKAL80ETC concert, -14, 0
+before: my magical item, 18, 70 - after: my magical item, 17, 69
+before: Aged Brie, 28, -34 - after: Aged Brie, 27, -33
+before: Sulfuras, Hand of Ragnaros, 59, -8 - after: Sulfuras, Hand of Ragnaros, 59, -8
+before: Aged Brie, 69, 39 - after: Aged Brie, 68, 40
+before: Sulfuras, Hand of Ragnaros, 100, -2 - after: Sulfuras, Hand of Ragnaros, 100, -2
+before: Aged Brie, -41, 24 - after: Aged Brie, -42, 26
+before: Aged Brie, -10, 71 - after: Aged Brie, -11, 71
+before: Sulfuras, Hand of Ragnaros, 0, -21 - after: Sulfuras, Hand of Ragnaros, 0, -21
+before: Aged Brie, 31, 5 - after: Aged Brie, 30, 6
+before: Backstage passes to a TAFKAL80ETC concert, 41, 52 - after: Backstage passes to a TAFKAL80ETC concert, 40, 52
+before: my magical item, 84, 78 - after: my magical item, 83, 77
+before: Backstage passes to a TAFKAL80ETC concert, -36, -26 - after: Backstage passes to a TAFKAL80ETC concert, -37, 0
+before: my magical item, -26, 84 - after: my magical item, -27, 82
+before: Backstage passes to a TAFKAL80ETC concert, 5, -41 - after: Backstage passes to a TAFKAL80ETC concert, 4, -38
+before: Backstage passes to a TAFKAL80ETC concert, 15, 6 - after: Backstage passes to a TAFKAL80ETC concert, 14, 7
+before: my magical item, 46, 65 - after: my magical item, 45, 64
+before: Backstage passes to a TAFKAL80ETC concert, 56, 91 - after: Backstage passes to a TAFKAL80ETC concert, 55, 91
+before: Sulfuras, Hand of Ragnaros, 87, -13 - after: Sulfuras, Hand of Ragnaros, 87, -13
+before: Aged Brie, 97, 13 - after: Aged Brie, 96, 14
+before: Sulfuras, Hand of Ragnaros, -23, 60 - after: Sulfuras, Hand of Ragnaros, -23, 60
+before: Aged Brie, -13, 19 - after: Aged Brie, -14, 21
+before: Aged Brie, 18, 45 - after: Aged Brie, 17, 46
+before: Sulfuras, Hand of Ragnaros, 28, 92 - after: Sulfuras, Hand of Ragnaros, 28, 92
+before: Aged Brie, 59, 0 - after: Aged Brie, 58, 1
+before: Sulfuras, Hand of Ragnaros, 69, 26 - after: Sulfuras, Hand of Ragnaros, 69, 26
+before: my magical item, 100, 73 - after: my magical item, 99, 72
+before: Backstage passes to a TAFKAL80ETC concert, -41, 99 - after: Backstage passes to a TAFKAL80ETC concert, -42, 0
+before: my magical item, -10, -5 - after: my magical item, -11, -5
+before: Backstage passes to a TAFKAL80ETC concert, 0, -46 - after: Backstage passes to a TAFKAL80ETC concert, -1, 0
+before: Backstage passes to a TAFKAL80ETC concert, 31, -20 - after: Backstage passes to a TAFKAL80ETC concert, 30, -19
+before: my magical item, 41, 27 - after: my magical item, 40, 26
+before: Backstage passes to a TAFKAL80ETC concert, -16, 0 - after: Backstage passes to a TAFKAL80ETC concert, -17, 0
+before: Aged Brie, 13, 96 - after: Aged Brie, 12, 96
+before: my magical item, 94, 57 - after: my magical item, 93, 56
+before: Sulfuras, Hand of Ragnaros, 78, 57 - after: Sulfuras, Hand of Ragnaros, 78, 57
+before: Sulfuras, Hand of Ragnaros, 65, 60 - after: Sulfuras, Hand of Ragnaros, 65, 60
+before: Backstage passes to a TAFKAL80ETC concert, -19, -8 - after: Backstage passes to a TAFKAL80ETC concert, -20, 0
+before: Backstage passes to a TAFKAL80ETC concert, 87, 47 - after: Backstage passes to a TAFKAL80ETC concert, 86, 48
+before: Backstage passes to a TAFKAL80ETC concert, 66, 42 - after: Backstage passes to a TAFKAL80ETC concert, 65, 43
+before: Backstage passes to a TAFKAL80ETC concert, 96, 100 - after: Backstage passes to a TAFKAL80ETC concert, 95, 100
+before: Sulfuras, Hand of Ragnaros, -10, 10 - after: Sulfuras, Hand of Ragnaros, -10, 10
+before: Aged Brie, 6, 42 - after: Aged Brie, 5, 43
+before: Aged Brie, 94, -5 - after: Aged Brie, 93, -4
+before: Backstage passes to a TAFKAL80ETC concert, -40, 28 - after: Backstage passes to a TAFKAL80ETC concert, -41, 0
+before: Aged Brie, -10, 29 - after: Aged Brie, -11, 31
+before: Sulfuras, Hand of Ragnaros, -49, -16 - after: Sulfuras, Hand of Ragnaros, -49, -16
+before: Backstage passes to a TAFKAL80ETC concert, 8, 69 - after: Backstage passes to a TAFKAL80ETC concert, 7, 69
+before: Aged Brie, 74, 0 - after: Aged Brie, 73, 1
+before: Backstage passes to a TAFKAL80ETC concert, 16, -12 - after: Backstage passes to a TAFKAL80ETC concert, 15, -11
+before: my magical item, -7, -50 - after: my magical item, -8, -50
+before: Sulfuras, Hand of Ragnaros, -21, -47 - after: Sulfuras, Hand of Ragnaros, -21, -47
+before: my magical item, 26, 16 - after: my magical item, 25, 15
+before: Aged Brie, -50, 39 - after: Aged Brie, -51, 41
+before: Sulfuras, Hand of Ragnaros, -40, 65 - after: Sulfuras, Hand of Ragnaros, -40, 65
+before: Sulfuras, Hand of Ragnaros, -9, -27 - after: Sulfuras, Hand of Ragnaros, -9, -27
+before: Aged Brie, 1, 20 - after: Aged Brie, 0, 21
+before: Backstage passes to a TAFKAL80ETC concert, 32, 46 - after: Backstage passes to a TAFKAL80ETC concert, 31, 47
+before: my magical item, 42, 93 - after: my magical item, 41, 92
+before: Backstage passes to a TAFKAL80ETC concert, 85, -32 - after: Backstage passes to a TAFKAL80ETC concert, 84, -31
+before: my magical item, -35, 15 - after: my magical item, -36, 13
+before: Backstage passes to a TAFKAL80ETC concert, -25, -26 - after: Backstage passes to a TAFKAL80ETC concert, -26, 0
+before: my magical item, 6, 0 - after: my magical item, 5, 0
+before: my magical item, 16, 59 - after: my magical item, 15, 58
+before: Backstage passes to a TAFKAL80ETC concert, 47, -45 - after: Backstage passes to a TAFKAL80ETC concert, 46, -44
+before: Sulfuras, Hand of Ragnaros, 57, -19 - after: Sulfuras, Hand of Ragnaros, 57, -19
+before: Aged Brie, 88, 28 - after: Aged Brie, 87, 29
+before: Sulfuras, Hand of Ragnaros, 98, 54 - after: Sulfuras, Hand of Ragnaros, 98, 54
+before: Aged Brie, -22, -50 - after: Aged Brie, -23, -48
+before: Sulfuras, Hand of Ragnaros, -12, 60 - after: Sulfuras, Hand of Ragnaros, -12, 60
+before: Sulfuras, Hand of Ragnaros, 19, 86 - after: Sulfuras, Hand of Ragnaros, 19, 86
+before: Aged Brie, 29, -6 - after: Aged Brie, 28, -5
+before: Sulfuras, Hand of Ragnaros, 60, 41 - after: Sulfuras, Hand of Ragnaros, 60, 41
+before: my magical item, 70, 67 - after: my magical item, 69, 66
+before: Backstage passes to a TAFKAL80ETC concert, -50, -37 - after: Backstage passes to a TAFKAL80ETC concert, -51, 0
+before: my magical item, -40, -11 - after: my magical item, -41, -11
+before: Backstage passes to a TAFKAL80ETC concert, -9, 99 - after: Backstage passes to a TAFKAL80ETC concert, -10, 0
+before: my magical item, 1, -5 - after: my magical item, 0, -5
+before: my magical item, 32, 21 - after: my magical item, 31, 20
+before: Backstage passes to a TAFKAL80ETC concert, 42, 80 - after: Backstage passes to a TAFKAL80ETC concert, 41, 80
+before: Sulfuras, Hand of Ragnaros, 73, -24 - after: Sulfuras, Hand of Ragnaros, 73, -24
+before: Aged Brie, 83, 2 - after: Aged Brie, 82, 3
+before: Sulfuras, Hand of Ragnaros, -37, 49 - after: Sulfuras, Hand of Ragnaros, -37, 49
+before: Aged Brie, -27, 75 - after: Aged Brie, -28, 75
+before: Sulfuras, Hand of Ragnaros, 4, 34 - after: Sulfuras, Hand of Ragnaros, 4, 34
+before: Aged Brie, 14, 81 - after: Aged Brie, 13, 81
+before: Aged Brie, 45, -11 - after: Aged Brie, 44, -10
+before: Sulfuras, Hand of Ragnaros, 55, 15 - after: Sulfuras, Hand of Ragnaros, 55, 15
+before: my magical item, 86, 62 - after: my magical item, 85, 61
+before: Backstage passes to a TAFKAL80ETC concert, 96, 88 - after: Backstage passes to a TAFKAL80ETC concert, 95, 88
+before: my magical item, -24, -16 - after: my magical item, -25, -16
+before: Backstage passes to a TAFKAL80ETC concert, -14, 10 - after: Backstage passes to a TAFKAL80ETC concert, -15, 0
+before: my magical item, 17, -31 - after: my magical item, 16, -31
+before: Backstage passes to a TAFKAL80ETC concert, 27, 16 - after: Backstage passes to a TAFKAL80ETC concert, 26, 17
+before: Backstage passes to a TAFKAL80ETC concert, 58, 75 - after: Backstage passes to a TAFKAL80ETC concert, 57, 75
+before: my magical item, 1, -50 - after: my magical item, 0, -50
+before: Aged Brie, 11, -3 - after: Aged Brie, 10, -2
+before: Sulfuras, Hand of Ragnaros, 42, 23 - after: Sulfuras, Hand of Ragnaros, 42, 23
+before: Aged Brie, 52, 70 - after: Aged Brie, 51, 70
+before: Sulfuras, Hand of Ragnaros, 83, 96 - after: Sulfuras, Hand of Ragnaros, 83, 96
+before: Aged Brie, 93, 55 - after: Aged Brie, 92, 55
+before: Sulfuras, Hand of Ragnaros, -27, -49 - after: Sulfuras, Hand of Ragnaros, -27, -49
+before: Sulfuras, Hand of Ragnaros, -17, 10 - after: Sulfuras, Hand of Ragnaros, -17, 10
+before: Aged Brie, 14, 36 - after: Aged Brie, 13, 37
+before: Backstage passes to a TAFKAL80ETC concert, 24, 83 - after: Backstage passes to a TAFKAL80ETC concert, 23, 83
+before: my magical item, 55, -42 - after: my magical item, 54, -42
+before: Backstage passes to a TAFKAL80ETC concert, 65, 5 - after: Backstage passes to a TAFKAL80ETC concert, 64, 6
+before: my magical item, 96, 31 - after: my magical item, 95, 30
+before: Backstage passes to a TAFKAL80ETC concert, -12, -10 - after: Backstage passes to a TAFKAL80ETC concert, -13, 0
+before: Backstage passes to a TAFKAL80ETC concert, -2, 37 - after: Backstage passes to a TAFKAL80ETC concert, -3, 0
+before: my magical item, 29, 96 - after: my magical item, 28, 95
+before: Backstage passes to a TAFKAL80ETC concert, 39, -29 - after: Backstage passes to a TAFKAL80ETC concert, 38, -28
+before: Sulfuras, Hand of Ragnaros, 70, 18 - after: Sulfuras, Hand of Ragnaros, 70, 18
+before: Aged Brie, 80, 44 - after: Aged Brie, 79, 45
+before: Sulfuras, Hand of Ragnaros, -40, 91 - after: Sulfuras, Hand of Ragnaros, -40, 91
+before: Aged Brie, -30, 50 - after: Aged Brie, -31, 50
+before: Sulfuras, Hand of Ragnaros, 1, 76 - after: Sulfuras, Hand of Ragnaros, 1, 76
+before: Sulfuras, Hand of Ragnaros, 11, -28 - after: Sulfuras, Hand of Ragnaros, 11, -28
+before: Aged Brie, 42, 31 - after: Aged Brie, 41, 32
+before: Backstage passes to a TAFKAL80ETC concert, 52, 57 - after: Backstage passes to a TAFKAL80ETC concert, 51, 57
+before: my magical item, 83, -47 - after: my magical item, 82, -47
+before: Backstage passes to a TAFKAL80ETC concert, 93, -21 - after: Backstage passes to a TAFKAL80ETC concert, 92, -20
+before: my magical item, -27, 26 - after: my magical item, -28, 24
+before: Backstage passes to a TAFKAL80ETC concert, -17, -15 - after: Backstage passes to a TAFKAL80ETC concert, -18, 0
+before: my magical item, 14, 11 - after: my magical item, 13, 10
+before: my magical item, 24, 70 - after: my magical item, 23, 69
+before: Backstage passes to a TAFKAL80ETC concert, 55, -34 - after: Backstage passes to a TAFKAL80ETC concert, 54, -33
+before: Sulfuras, Hand of Ragnaros, 65, -8 - after: Sulfuras, Hand of Ragnaros, 65, -8
+before: Aged Brie, 96, 39 - after: Aged Brie, 95, 40
+before: Sulfuras, Hand of Ragnaros, -45, 65 - after: Sulfuras, Hand of Ragnaros, -45, 65
+before: Aged Brie, -14, -39 - after: Aged Brie, -15, -37
+before: Sulfuras, Hand of Ragnaros, -4, 71 - after: Sulfuras, Hand of Ragnaros, -4, 71
+before: Aged Brie, 27, 97 - after: Aged Brie, 26, 97
+before: Aged Brie, 37, 5 - after: Aged Brie, 36, 6
+before: Sulfuras, Hand of Ragnaros, 68, 52 - after: Sulfuras, Hand of Ragnaros, 68, 52
+before: my magical item, 78, 78 - after: my magical item, 77, 77
+before: Backstage passes to a TAFKAL80ETC concert, -42, -26 - after: Backstage passes to a TAFKAL80ETC concert, -43, 0
+before: my magical item, -32, 0 - after: my magical item, -33, 0
+before: Backstage passes to a TAFKAL80ETC concert, -1, 47 - after: Backstage passes to a TAFKAL80ETC concert, -2, 0
+before: my magical item, 9, 6 - after: my magical item, 8, 5
+before: Backstage passes to a TAFKAL80ETC concert, 49, 64 - after: Backstage passes to a TAFKAL80ETC concert, 48, 64
+before: Aged Brie, -1, 24 - after: Aged Brie, -2, 26
+before: Backstage passes to a TAFKAL80ETC concert, 86, -8 - after: Backstage passes to a TAFKAL80ETC concert, 85, -7
+before: Sulfuras, Hand of Ragnaros, -34, 39 - after: Sulfuras, Hand of Ragnaros, -34, 39
+before: Aged Brie, -24, 65 - after: Aged Brie, -25, 65
+before: Sulfuras, Hand of Ragnaros, 7, -39 - after: Sulfuras, Hand of Ragnaros, 7, -39
+before: Aged Brie, 17, -13 - after: Aged Brie, 16, -12
+before: Sulfuras, Hand of Ragnaros, 48, 97 - after: Sulfuras, Hand of Ragnaros, 48, 97
+before: Aged Brie, 58, -7 - after: Aged Brie, 57, -6
+before: Aged Brie, 1, 52 - after: Aged Brie, 0, 52
+before: Backstage passes to a TAFKAL80ETC concert, 32, 78 - after: Backstage passes to a TAFKAL80ETC concert, 31, 78
+before: my magical item, 42, -26 - after: my magical item, 41, -26
+before: Backstage passes to a TAFKAL80ETC concert, 73, 0 - after: Backstage passes to a TAFKAL80ETC concert, 72, 1
+before: my magical item, 83, 47 - after: my magical item, 82, 46
+before: Backstage passes to a TAFKAL80ETC concert, -37, 73 - after: Backstage passes to a TAFKAL80ETC concert, -38, 0
+before: my magical item, -27, 32 - after: my magical item, -28, 30
+before: Backstage passes to a TAFKAL80ETC concert, 4, 79 - after: Backstage passes to a TAFKAL80ETC concert, 3, 79
+before: Backstage passes to a TAFKAL80ETC concert, 47, -13 - after: Backstage passes to a TAFKAL80ETC concert, 46, -12
+before: Sulfuras, Hand of Ragnaros, 57, 13 - after: Sulfuras, Hand of Ragnaros, 57, 13
+before: Aged Brie, 88, 60 - after: Aged Brie, 87, 60
+before: Sulfuras, Hand of Ragnaros, 98, 86 - after: Sulfuras, Hand of Ragnaros, 98, 86
+before: Aged Brie, -22, -18 - after: Aged Brie, -23, -16
+before: Sulfuras, Hand of Ragnaros, -12, 8 - after: Sulfuras, Hand of Ragnaros, -12, 8
+before: Aged Brie, 19, -33 - after: Aged Brie, 18, -32
+before: Sulfuras, Hand of Ragnaros, 29, 26 - after: Sulfuras, Hand of Ragnaros, 29, 26
+before: Sulfuras, Hand of Ragnaros, 60, 73 - after: Sulfuras, Hand of Ragnaros, 60, 73
+before: my magical item, 70, 99 - after: my magical item, 69, 98
+before: Backstage passes to a TAFKAL80ETC concert, -50, -5 - after: Backstage passes to a TAFKAL80ETC concert, -51, 0
