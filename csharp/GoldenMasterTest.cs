@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using ApprovalTests.Reporters;
+﻿using System.Linq;
 using FsCheck;
 using Xunit;
 
@@ -9,16 +7,16 @@ namespace csharp
     public class GoldenMasterTest
     {
         [Fact]
-        [UseReporter(typeof(DiffReporter))]
         public void Run()
         {
             var nameGenerator = Gen.Elements("Aged Brie", "Backstage passes to a TAFKAL80ETC concert", "Sulfuras, Hand of Ragnaros", "my magical item");
-            var numberGenerator = Gen.Choose(-50, 100);
+            var qualityGenerator = Gen.Elements(-1, 0, 1, 49, 50, 51);
+            var sellInGenerator = Gen.Elements(-1, 0, 1, 5, 6, 7, 10, 11, 12);
 
             var itemGenerator =
                 from name in nameGenerator
-                from quality in numberGenerator
-                from sellIn in numberGenerator
+                from quality in qualityGenerator
+                from sellIn in sellInGenerator
                 select new Item {Name = name, Quality = quality, SellIn = sellIn};
 
             var itemsGenerator = Gen.ListOf(itemGenerator);

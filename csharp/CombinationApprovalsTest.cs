@@ -7,7 +7,6 @@ namespace csharp
     public class CombinationApprovalsTest
     {
         [Fact]
-        [UseReporter(typeof(DiffReporter))]
         public void Run()
         {
             ApprovalTests.Combinations.CombinationApprovals.VerifyAllCombinations(
