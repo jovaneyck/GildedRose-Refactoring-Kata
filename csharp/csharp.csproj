@@ -86,6 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GildedRose.cs" />
+    <Compile Include="CombinationApprovalsTest.cs" />
     <Compile Include="GoldenMasterTest.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
