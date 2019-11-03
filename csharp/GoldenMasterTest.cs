@@ -21,7 +21,12 @@ namespace csharp
 
             var itemsGenerator = Gen.ListOf(itemGenerator);
 
-            var items = itemsGenerator.Eval(1000, Random.mkStdGen(1337)).ToList();
+            var items = itemsGenerator
+                .Eval(1000, Random.mkStdGen(1337))
+                .OrderBy(i=>i.Name)
+                .ThenBy(i=>i.Quality)
+                .ThenBy(i=>i.SellIn)
+                .ToList();
 
             var before = items.Select(i => i.ToString()).ToList();
 
