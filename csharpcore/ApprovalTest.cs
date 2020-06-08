@@ -4,10 +4,11 @@ using System.IO;
 using System.Text;
 using ApprovalTests;
 using ApprovalTests.Reporters;
+using ApprovalTests.Reporters.TestFrameworks;
 
 namespace csharpcore
 {
-    [UseReporter(typeof(DiffReporter))]
+    [UseReporter(typeof(XUnit2Reporter))]
     public class ApprovalTest
     {
         [Fact]
