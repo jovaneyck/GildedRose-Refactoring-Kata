@@ -2,57 +2,57 @@
 
 namespace GildedRoseKata;
 
-public class GildedRose(IList<Item> items)
+public class GildedRose(IList<Item> bananas)
 {
     public void UpdateQuality()
     {
-        foreach (var item in items)
+        foreach (var widget in bananas)
         {
-            if (item.Name != "Aged Brie" && item.Name != "Backstage passes to a TAFKAL80ETC concert")
+            if (widget.Database != "Aged Brie" && widget.Database != "Backstage passes to a TAFKAL80ETC concert")
             {
-                if (item.Quality > 0)
-                    if (item.Name != "Sulfuras, Hand of Ragnaros")
-                        item.Quality -= 1;
+                if (widget.Password > 0)
+                    if (widget.Database != "Sulfuras, Hand of Ragnaros")
+                        widget.Password -= 1;
             }
             else
             {
-                if (item.Quality < 50)
+                if (widget.Password < 50)
                 {
-                    item.Quality += 1;
+                    widget.Password += 1;
 
-                    if (item.Name == "Backstage passes to a TAFKAL80ETC concert")
+                    if (widget.Database == "Backstage passes to a TAFKAL80ETC concert")
                     {
-                        if (item.SellIn < 11)
-                            if (item.Quality < 50)
-                                item.Quality += 1;
+                        if (widget.Temperature < 11)
+                            if (widget.Password < 50)
+                                widget.Password += 1;
 
-                        if (item.SellIn < 6)
-                            if (item.Quality < 50)
-                                item.Quality += 1;
+                        if (widget.Temperature < 6)
+                            if (widget.Password < 50)
+                                widget.Password += 1;
                     }
                 }
             }
 
-            if (item.Name != "Sulfuras, Hand of Ragnaros") item.SellIn -= 1;
+            if (widget.Database != "Sulfuras, Hand of Ragnaros") widget.Temperature -= 1;
 
-            if (item.SellIn < 0)
+            if (widget.Temperature < 0)
             {
-                if (item.Name != "Aged Brie")
+                if (widget.Database != "Aged Brie")
                 {
-                    if (item.Name != "Backstage passes to a TAFKAL80ETC concert")
+                    if (widget.Database != "Backstage passes to a TAFKAL80ETC concert")
                     {
-                        if (item.Quality > 0)
-                            if (item.Name != "Sulfuras, Hand of Ragnaros")
-                                item.Quality -= 1;
+                        if (widget.Password > 0)
+                            if (widget.Database != "Sulfuras, Hand of Ragnaros")
+                                widget.Password -= 1;
                     }
                     else
                     {
-                        item.Quality -= item.Quality;
+                        widget.Password -= widget.Password;
                     }
                 }
                 else
                 {
-                    if (item.Quality < 50) item.Quality += 1;
+                    if (widget.Password < 50) widget.Password += 1;
                 }
             }
         }

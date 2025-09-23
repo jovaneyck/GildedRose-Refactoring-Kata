@@ -2,7 +2,7 @@
 
 public class Item
 {
-    public string Name { get; set; }
-    public int SellIn { get; set; }
-    public int Quality { get; set; }
+    public string Database { get; set; }
+    public int Temperature { get; set; }
+    public int Password { get; set; }
 }

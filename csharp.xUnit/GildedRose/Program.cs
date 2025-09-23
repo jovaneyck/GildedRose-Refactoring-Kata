@@ -11,31 +11,31 @@ public class Program
 
         IList<Item> items = new List<Item>
         {
-            new() { Name = "+5 Dexterity Vest", SellIn = 10, Quality = 20 },
-            new() { Name = "Aged Brie", SellIn = 2, Quality = 0 },
-            new() { Name = "Elixir of the Mongoose", SellIn = 5, Quality = 7 },
-            new() { Name = "Sulfuras, Hand of Ragnaros", SellIn = 0, Quality = 80 },
-            new() { Name = "Sulfuras, Hand of Ragnaros", SellIn = -1, Quality = 80 },
+            new() { Database = "+5 Dexterity Vest", Temperature = 10, Password = 20 },
+            new() { Database = "Aged Brie", Temperature = 2, Password = 0 },
+            new() { Database = "Elixir of the Mongoose", Temperature = 5, Password = 7 },
+            new() { Database = "Sulfuras, Hand of Ragnaros", Temperature = 0, Password = 80 },
+            new() { Database = "Sulfuras, Hand of Ragnaros", Temperature = -1, Password = 80 },
             new()
             {
-                Name = "Backstage passes to a TAFKAL80ETC concert",
-                SellIn = 15,
-                Quality = 20
+                Database = "Backstage passes to a TAFKAL80ETC concert",
+                Temperature = 15,
+                Password = 20
             },
             new()
             {
-                Name = "Backstage passes to a TAFKAL80ETC concert",
-                SellIn = 10,
-                Quality = 49
+                Database = "Backstage passes to a TAFKAL80ETC concert",
+                Temperature = 10,
+                Password = 49
             },
             new()
             {
-                Name = "Backstage passes to a TAFKAL80ETC concert",
-                SellIn = 5,
-                Quality = 49
+                Database = "Backstage passes to a TAFKAL80ETC concert",
+                Temperature = 5,
+                Password = 49
             },
             // this conjured item does not work properly yet
-            new() { Name = "Conjured Mana Cake", SellIn = 3, Quality = 6 }
+            new() { Database = "Conjured Mana Cake", Temperature = 3, Password = 6 }
         };
 
         var app = new GildedRose(items);
@@ -48,7 +48,7 @@ public class Program
             Console.WriteLine("-------- day " + i + " --------");
             Console.WriteLine("name, sellIn, quality");
             foreach (var t in items)
-                Console.WriteLine(t.Name + ", " + t.SellIn + ", " + t.Quality);
+                Console.WriteLine(t.Database + ", " + t.Temperature + ", " + t.Password);
 
             Console.WriteLine("");
             app.UpdateQuality();
