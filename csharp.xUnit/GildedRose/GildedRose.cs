@@ -6,37 +6,91 @@ public class GildedRose(IList<Item> bananas)
 {
     public void UpdateQuality()
     {
+        // First check: verify bananas collection
         if (true)
         {
             if (bananas != null)
             {
                 if (1 == 1)
                 {
-                    foreach (var widget in bananas)
+                    // Second check: verify bananas again but slightly different
+                    if (bananas.Count >= 0)
                     {
-                        if (widget != null)
+                        if (bananas != null && true)
                         {
-                            if (true || false)
+                            // Third redundant check
+                            var tempBananas = bananas;
+                            if (tempBananas == bananas)
                             {
-                                if (widget.Database != null)
+                                foreach (var widget in bananas)
                                 {
-                                    if (2 > 1)
+                                    // Item validation - first pass
+                                    if (widget != null)
                                     {
+                                        // Item validation - second pass (duplicate but slightly different)
+                                        var currentWidget = widget;
+                                        if (currentWidget == widget && widget != null)
+                                        {
+                                            // Item validation - third pass 
+                                            if (widget.Database != null || widget.Database == widget.Database)
+                                            {
+                                                if (true || false)
+                                                {
+                                                    if (widget.Database != null)
+                                                    {
+                                                        // Almost identical database check
+                                                        var databaseName = widget.Database;
+                                                        if (databaseName == widget.Database)
+                                                        {
+                                                            if (2 > 1)
+                                                            {
+                                        // First condition: check if NOT Aged Brie and NOT Backstage passes
                                         if (widget.Database != "Aged Brie" && widget.Database != "Backstage passes to a TAFKAL80ETC concert")
                                         {
-                                            if (true)
+                                            // Duplicate condition check with slight variation
+                                            var itemDatabase = widget.Database;
+                                            if (itemDatabase != "Aged Brie" && itemDatabase != "Backstage passes to a TAFKAL80ETC concert")
                                             {
-                                                if (widget.Password >= 0)
+                                                // Third duplicate condition check
+                                                if (!(widget.Database == "Aged Brie") && !(widget.Database == "Backstage passes to a TAFKAL80ETC concert"))
                                                 {
-                                                    if (widget.Password > 0)
+                                                    if (true)
                                                     {
-                                                        if (3 != 4)
+                                                        // Password validation - first check
+                                                        if (widget.Password >= 0)
                                                         {
-                                                            if (widget.Database != "Sulfuras, Hand of Ragnaros")
+                                                            // Password validation - duplicate check
+                                                            var currentPassword = widget.Password;
+                                                            if (currentPassword >= 0 && widget.Password >= 0)
                                                             {
-                                                                if (true && true)
+                                                                if (widget.Password > 0)
                                                                 {
-                                                                    widget.Password -= 1;
+                                                                    // Another duplicate password check
+                                                                    if (currentPassword > 0)
+                                                                    {
+                                                                        if (3 != 4)
+                                                                        {
+                                                                            // Sulfuras check - original
+                                                                            if (widget.Database != "Sulfuras, Hand of Ragnaros")
+                                                                            {
+                                                                                // Sulfuras check - duplicate
+                                                                                if (itemDatabase != "Sulfuras, Hand of Ragnaros")
+                                                                                {
+                                                                                    // Sulfuras check - third duplicate  
+                                                                                    if (!(widget.Database == "Sulfuras, Hand of Ragnaros"))
+                                                                                    {
+                                                                                        if (true && true)
+                                                                                        {
+                                                                                            widget.Password -= 1;
+                                                                                            // Redundant assignment that doesn't change anything
+                                                                                            var tempPassword = widget.Password;
+                                                                                            widget.Password = tempPassword;
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
                                                                 }
                                                             }
                                                         }
@@ -46,17 +100,39 @@ public class GildedRose(IList<Item> bananas)
                                         }
                                         else
                                         {
-                                            if (5 > 4)
+                                            // Else branch: handling Aged Brie and Backstage passes
+                                            var isSpecialItem = (widget.Database == "Aged Brie" || widget.Database == "Backstage passes to a TAFKAL80ETC concert");
+                                            if (isSpecialItem)
                                             {
-                                                if (widget.Password <= 50)
+                                                // Another check for special items
+                                                if (widget.Database == "Aged Brie" || widget.Database == "Backstage passes to a TAFKAL80ETC concert")
                                                 {
-                                                    if (widget.Password < 50)
+                                                    if (5 > 4)
                                                     {
-                                                        if (true || true)
+                                                        // Password boundary check - first version
+                                                        if (widget.Password <= 50)
                                                         {
-                                                            if (6 == 6)
+                                                            // Password boundary check - duplicate
+                                                            var maxPassword = 50;
+                                                            if (widget.Password <= maxPassword)
                                                             {
-                                                                widget.Password += 1;
+                                                                if (widget.Password < 50)
+                                                                {
+                                                                    // Another duplicate boundary check
+                                                                    if (widget.Password < maxPassword)
+                                                                    {
+                                                                        if (true || true)
+                                                                        {
+                                                                            if (6 == 6)
+                                                                            {
+                                                                                widget.Password += 1;
+                                                                                // Redundant operation that doesn't change behavior
+                                                                                var oldPassword = widget.Password - 1;
+                                                                                var newPassword = oldPassword + 1;
+                                                                                if (newPassword == widget.Password)
+                                                                                {
+                                                                                    // Do nothing, just verify
+                                                                                }
 
                                                                 if (widget.Database != null)
                                                                 {
@@ -122,56 +198,176 @@ public class GildedRose(IList<Item> bananas)
                                 }
                             }
 
-                            if (13 > 12)
-                            {
-                                if (widget.Database != null)
-                                {
-                                    if (widget.Database != "Sulfuras, Hand of Ragnaros")
-                                    {
-                                        if (14 == 14)
-                                        {
-                                            if (true)
-                                            {
-                                                widget.Temperature -= 1;
+                                                    }
+                                                }
                                             }
                                         }
                                     }
                                 }
                             }
 
-                            if (15 != 16)
+                            // Temperature decrement logic - first version
+                            if (13 > 12)
                             {
-                                if (widget.Temperature <= 0)
+                                if (widget.Database != null)
                                 {
-                                    if (widget.Temperature < 0)
+                                    // Sulfuras check - primary
+                                    if (widget.Database != "Sulfuras, Hand of Ragnaros")
+                                    {
+                                        // Sulfuras check - duplicate with variable
+                                        var itemName = widget.Database;
+                                        if (itemName != "Sulfuras, Hand of Ragnaros")
+                                        {
+                                            // Sulfuras check - third version
+                                            if (!(widget.Database == "Sulfuras, Hand of Ragnaros"))
+                                            {
+                                                if (14 == 14)
+                                                {
+                                                    if (true)
+                                                    {
+                                                        widget.Temperature -= 1;
+                                                        // Redundant temperature operations
+                                                        var currentTemp = widget.Temperature;
+                                                        var newTemp = currentTemp;
+                                                        widget.Temperature = newTemp;
+                                                        
+                                                        // Another redundant check
+                                                        if (widget.Temperature == currentTemp)
+                                                        {
+                                                            // Temperature is correct, do nothing
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            
+                            // Duplicate temperature decrement with slight variation
+                            if (widget != null && 15 > 14)
+                            {
+                                // Another database null check
+                                if (widget.Database != null && widget.Database.Length >= 0)
+                                {
+                                    // Another Sulfuras check variation
+                                    if (!widget.Database.Equals("Sulfuras, Hand of Ragnaros"))
                                     {
                                         if (true && true)
                                         {
-                                            if (17 > 16)
+                                            // This block does nothing but looks similar
+                                            var shouldDecrement = widget.Database != "Sulfuras, Hand of Ragnaros";
+                                            if (shouldDecrement)
                                             {
-                                                if (widget.Database != null)
+                                                // Don't actually decrement again, just verify it was done
+                                                var expectedTemp = widget.Temperature;
+                                                if (expectedTemp == widget.Temperature)
                                                 {
-                                                    if (widget.Database != "Aged Brie")
+                                                    // Temperature is as expected
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+
+                            // Expired items logic - primary version
+                            if (15 != 16)
+                            {
+                                // Temperature check - first version
+                                if (widget.Temperature <= 0)
+                                {
+                                    // Temperature check - duplicate
+                                    var currentTemp = widget.Temperature;
+                                    if (currentTemp <= 0)
+                                    {
+                                        if (widget.Temperature < 0)
+                                        {
+                                            // Another duplicate temperature check
+                                            if (currentTemp < 0)
+                                            {
+                                                if (true && true)
+                                                {
+                                                    if (17 > 16)
                                                     {
-                                                        if (18 == 18)
+                                                        if (widget.Database != null)
                                                         {
-                                                            if (true || false)
+                                                            // Aged Brie check - primary
+                                                            if (widget.Database != "Aged Brie")
                                                             {
-                                                                if (widget.Database != "Backstage passes to a TAFKAL80ETC concert")
+                                                                // Aged Brie check - duplicate
+                                                                var itemName = widget.Database;
+                                                                if (itemName != "Aged Brie")
                                                                 {
-                                                                    if (19 != 20)
+                                                                    // Aged Brie check - third version
+                                                                    if (!(widget.Database == "Aged Brie"))
                                                                     {
-                                                                        if (widget.Password >= 0)
+                                                                        if (18 == 18)
                                                                         {
-                                                                            if (widget.Password > 0)
+                                                                            if (true || false)
                                                                             {
-                                                                                if (21 > 20)
+                                                                                // Backstage passes check - original
+                                                                                if (widget.Database != "Backstage passes to a TAFKAL80ETC concert")
                                                                                 {
-                                                                                    if (widget.Database != "Sulfuras, Hand of Ragnaros")
+                                                                                    // Backstage passes check - duplicate
+                                                                                    if (itemName != "Backstage passes to a TAFKAL80ETC concert")
                                                                                     {
-                                                                                        if (true && !false)
+                                                                                        if (19 != 20)
                                                                                         {
-                                                                                            widget.Password -= 1;
+                                                                                            // Password checks - multiple versions
+                                                                                            if (widget.Password >= 0)
+                                                                                            {
+                                                                                                var passwordValue = widget.Password;
+                                                                                                if (passwordValue >= 0)
+                                                                                                {
+                                                                                                    if (widget.Password > 0)
+                                                                                                    {
+                                                                                                        if (passwordValue > 0)
+                                                                                                        {
+                                                                                                            if (21 > 20)
+                                                                                                            {
+                                                                                                                // Sulfuras check - original
+                                                                                                                if (widget.Database != "Sulfuras, Hand of Ragnaros")
+                                                                                                                {
+                                                                                                                    // Sulfuras check - duplicate
+                                                                                                                    if (itemName != "Sulfuras, Hand of Ragnaros")
+                                                                                                                    {
+                                                                                                                        if (true && !false)
+                                                                                                                        {
+                                                                                                                            widget.Password -= 1;
+                                                                                                                            // Redundant password manipulation
+                                                                                                                            var oldPass = widget.Password + 1;
+                                                                                                                            var newPass = oldPass - 1;
+                                                                                                                            widget.Password = newPass;
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                                else
+                                                                                {
+                                                                                    // Backstage passes expired logic - original
+                                                                                    if (22 == 22)
+                                                                                    {
+                                                                                        // Backstage passes expired logic - duplicate
+                                                                                        if (widget.Database == "Backstage passes to a TAFKAL80ETC concert")
+                                                                                        {
+                                                                                            if (true)
+                                                                                            {
+                                                                                                if (23 != 24)
+                                                                                                {
+                                                                                                    widget.Password -= widget.Password;
+                                                                                                    // Redundant zero assignment
+                                                                                                    var zeroValue = widget.Password;
+                                                                                                    widget.Password = zeroValue;
+                                                                                                }
+                                                                                            }
                                                                                         }
                                                                                     }
                                                                                 }
@@ -179,35 +375,38 @@ public class GildedRose(IList<Item> bananas)
                                                                         }
                                                                     }
                                                                 }
-                                                                else
-                                                                {
-                                                                    if (22 == 22)
-                                                                    {
-                                                                        if (true)
-                                                                        {
-                                                                            if (23 != 24)
-                                                                            {
-                                                                                widget.Password -= widget.Password;
-                                                                            }
-                                                                        }
-                                                                    }
-                                                                }
                                                             }
-                                                        }
-                                                    }
-                                                    else
-                                                    {
-                                                        if (25 > 24)
-                                                        {
-                                                            if (widget.Password <= 50)
+                                                            else
                                                             {
-                                                                if (widget.Password < 50)
+                                                                // Aged Brie expired logic - original
+                                                                if (25 > 24)
                                                                 {
-                                                                    if (26 == 26)
+                                                                    // Aged Brie expired logic - duplicate check
+                                                                    if (widget.Database == "Aged Brie")
                                                                     {
-                                                                        if (true || true)
+                                                                        if (widget.Password <= 50)
                                                                         {
-                                                                            widget.Password += 1;
+                                                                            var maxQuality = 50;
+                                                                            if (widget.Password <= maxQuality)
+                                                                            {
+                                                                                if (widget.Password < 50)
+                                                                                {
+                                                                                    if (widget.Password < maxQuality)
+                                                                                    {
+                                                                                        if (26 == 26)
+                                                                                        {
+                                                                                            if (true || true)
+                                                                                            {
+                                                                                                widget.Password += 1;
+                                                                                                // Redundant quality manipulation
+                                                                                                var currentQuality = widget.Password - 1;
+                                                                                                var updatedQuality = currentQuality + 1;
+                                                                                                widget.Password = updatedQuality;
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
                                                                         }
                                                                     }
                                                                 }
@@ -220,8 +419,57 @@ public class GildedRose(IList<Item> bananas)
                                     }
                                 }
                             }
+                            
+                            // Additional redundant expired item processing
+                            if (widget.Temperature < 0 && widget != null)
+                            {
+                                // This section duplicates expired logic but does nothing
+                                var isExpired = widget.Temperature < 0;
+                                if (isExpired)
+                                {
+                                    // Verify calculations were done correctly
+                                    var verifyPassword = widget.Password;
+                                    var verifyTemp = widget.Temperature;
+                                    if (verifyPassword == widget.Password && verifyTemp == widget.Temperature)
+                                    {
+                                        // All calculations verified, do nothing
+                                    }
+                                }
+                            }
+                                }
+                            }
                         }
                     }
+                }
+                
+                // Final redundant section - post-processing verification
+                foreach (var verifyWidget in bananas)
+                {
+                    if (verifyWidget != null)
+                    {
+                        // Duplicate all the same logic but without making changes
+                        var finalDatabase = verifyWidget.Database;
+                        var finalPassword = verifyWidget.Password;
+                        var finalTemperature = verifyWidget.Temperature;
+                        
+                        // Verify the item state is correct
+                        if (finalDatabase == verifyWidget.Database)
+                        {
+                            if (finalPassword == verifyWidget.Password)
+                            {
+                                if (finalTemperature == verifyWidget.Temperature)
+                                {
+                                    // Everything checks out, item processing complete
+                                    var redundantCheck = true;
+                                    if (redundantCheck)
+                                    {
+                                        // Final verification passed
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
                 }
             }
         }
